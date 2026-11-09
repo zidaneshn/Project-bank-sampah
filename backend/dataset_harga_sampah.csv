@@ -1,0 +1,90 @@
+Kategori,Nama_Barang,Harga,Satuan,Status
+Kertas,Kardus,2100,kg,Aktif
+Kertas,Koran A,6000,kg,Aktif
+Kertas,Koran Tabloid,1500,kg,Aktif
+Kertas,Buku (buku tulis/pelajaran tanpa kupas),1500,kg,Aktif
+Kertas,Buku LKS/pelajaran dikupas sampul,1700,kg,Aktif
+Kertas,Kertas putih/HVS,2200,kg,Aktif
+Kertas,Kantong semen,2500,kg,Aktif
+Kertas,Duplek,900,kg,Aktif
+Kertas,Duplek kor,500,kg,Aktif
+Kertas,Majalah,750,kg,Aktif
+Kertas,"Kertas minuman (kotak susu, dll)",0,kg,Stop
+Kertas,Tray telur/kertas telur,0,kg,Stop
+Ember,Ember campur,1700,kg,Aktif
+Ember,"Botol plastik shampo, oli, sabun cair/HDPE",2200,kg,Aktif
+Ember,Aqua gelas bersih,6000,kg,Aktif
+Ember,Aqua gelas kotor,1800,kg,Aktif
+Ember,Botol air mineral/bodong/pet bersih,5200,kg,Aktif
+Ember,Botol air mineral/bodong kotor/pet kotor,1800,kg,Aktif
+Ember,Botol Mineral Besar,4500,kg,Aktif
+Ember,Tutup botol,5000,kg,Aktif
+Ember,Tutup galon,6500,kg,Aktif
+Ember,Galon aqua pecah,4000,galon,Aktif
+Ember,Keping CD,6000,kg,Aktif
+Ember,Karpet,500,kg,Aktif
+Ember,Paralon,1000,kg,Aktif
+Ember,Kristal bening,5500,kg,Aktif
+Ember,Mika warna/Yakult,400,kg,Aktif
+Ember,Ale-ale/gelas warna,2200,kg,Aktif
+Ember,Naso Botol,4000,kg,Aktif
+Ember,Naso tinwol,5000,kg,Aktif
+Ember,"Bandalem (mobil, motor, sepeda)",500,kg,Aktif
+Plastik,Plastik kresek warna/asoy,0,kg,Stop
+Plastik,Plastik bening lembaran,1200,kg,Aktif
+Plastik,Plastik kemasan minyak goreng,400,kg,Aktif
+Plastik,Plastik sunlight dan sejenisnya,400,kg,Aktif
+Plastik,Plastik label/bungkus kopi,0,kg,Stop
+Botol Beling,Botol beling warna,400,kg,Aktif
+Botol Beling,Botol beling bening,400,kg,Aktif
+Botol Beling,Beling kaca (kecuali kaca mobil),150,kg,Aktif
+Botol Beling,Botol bintang bir,700,pcs,Aktif
+Botol Beling,Botol kecap,350,pcs,Aktif
+Besi,Besi padat,4800,kg,Aktif
+Besi,Besi stalbes,3800,kg,Aktif
+Besi,Kaleng,2800,kg,Aktif
+Besi,Seng/Seng Pasir/Kawat,1200,kg,Aktif
+Besi,Kawat springbed,500,kg,Aktif
+Logam,Tembaga bakar,150000,kg,Aktif
+Logam,Tembaga kupas,160000,kg,Aktif
+Logam,Kuningan,120000,kg,Aktif
+Logam,Alumunium panci,30000,kg,Aktif
+Logam,Alumunium pocari,25000,kg,Aktif
+Logam,Alumunium babet,20000,kg,Aktif
+Logam,Alumunium siku,40000,kg,Aktif
+Logam,Acu motor/mobil (AKI),12000,kg,Aktif
+Logam,Alumunium kuali,20000,kg,Aktif
+Kabel,Kabel listrik isi 3 (kawat tembaga),10000,kg,Aktif
+Kabel,Kabel listrik isi 2 (kawat tembaga),8000,kg,Aktif
+Kabel,Kabel listrik rambut/kecil (kecuali kabel antena),0,kg,Stop
+Kabel,Kulit kabel,1000,kg,Aktif
+Elektronik,Kulkas 2 pintu,150000,unit,Aktif
+Elektronik,Kulkas 1 pintu,100000,unit,Aktif
+Elektronik,AC 1 PK (1 set),300000,unit,Aktif
+Elektronik,AC 2 PK (1 set),500000,unit,Aktif
+Elektronik,AC 1/2 PK (1 set),250000,unit,Aktif
+Elektronik,AC 3/4 PK (1 set),275000,unit,Aktif
+Elektronik,Mesin cuci 1 lubang,80000,unit,Aktif
+Elektronik,Mesin cuci 2 lubang,60000,unit,Aktif
+Elektronik,Kipas angin (kecuali merk cina),15000,unit,Aktif
+Elektronik,TV 14 inc (tabung),15000,unit,Aktif
+Elektronik,TV 21 inc (tabung),25000,unit,Aktif
+Elektronik,TV LED/LCD (lihat kondisi),0,unit,Stop
+Elektronik,Monitor komputer (tabung),20000,unit,Aktif
+Elektronik,CPU komputer,60000,unit,Aktif
+Elektronik,Lampu philip/osram/shinyoku,0,perlampu,Stop
+Elektronik,Mejikom komplit,12000,unit,Aktif
+Elektronik,Mejikom besar tanpa panci sedang,8000,unit,Aktif
+Elektronik,Mejikom kecil,5000,unit,Aktif
+Elektronik,Hp jadul cina,2000,unit,Aktif
+Elektronik,Hp jadul nokia,3000,unit,Aktif
+Elektronik,Hp android cina,5000,unit,Aktif
+Elektronik,Hp android samsung,5000,unit,Aktif
+Elektronik,Laptop,50000,unit,Aktif
+Elektronik,Mainbot komputer,40000,kg,Aktif
+Elektronik,Hardisk komputer,7000,buah,Aktif
+Elektronik,Batre Laptop,10000,kg,Aktif
+Elektronik,Tablet,4000,unit,Aktif
+Elektronik,Setrikaan,5000,unit,Aktif
+Minyak Jelantah,Mijel literan,6500,liter,Aktif
+Minyak Jelantah,Mijel/Kg,7000,kg,Aktif

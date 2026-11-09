@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+backend/arsip_foto/
+aplikasi_bank_sampah/build/
+aplikasi_bank_sampah/.dart_tool/
